@@ -1872,7 +1872,6 @@ dependencies = [
  "tempfile",
  "textwrap",
  "tracing",
- "tracing-log",
  "tracing-subscriber",
  "tracing-tree",
 ]
